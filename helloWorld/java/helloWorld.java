@@ -4,6 +4,7 @@ import java.io.IOException;
 
 /*
   Example of Hello World written in Java
+  Author: Jairo García - garniev: https://github.com/garniev
 */
 
 public class helloWorld{

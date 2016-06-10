@@ -4,6 +4,7 @@ using namespace std;
 
 /*
   Example of Hello World written in C++
+  Author: Jairo García - garniev: https://github.com/garniev
 */
 
 class Greetings{
