@@ -2,6 +2,10 @@
 
 using namespace std;
 
+/*
+  Example of Hello World written in C++
+*/
+
 class Greetings{
 public:
   void sayHello();
